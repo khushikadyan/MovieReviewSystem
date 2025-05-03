@@ -1,6 +1,6 @@
 # 🎬 Movie Review System
 
-## Movie Review System
+
 Allows users to browse movies and submit or view reviews. It securely stores user-generated reviews in a real-time database. Built with React.js, Vite, and powered by Appwrite for backend functionality.
 
 ## 🚀 Live Demo
